@@ -11,7 +11,7 @@ Included are:
 ## Preset names mapping
 
 For completeness we report the mapping between the Adobe Lightroom (LR) presets abbreviations reported in the figures and their full names as displayed in the LR interface.
-Preset names follow a three-level hierarchy: preset family -> category -> preset name (i.e., adaptive -> blur background -> strong).
+Preset names follow a three-level hierarchy: [Preset Family] -> [Category] -> [Preset Name] (i.e., Adaptive -> Blur Background -> Strong).
 
 | Abbreviation | Preset Family | Category | Preset Name |
 | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ Preset names follow a three-level hierarchy: preset family -> category -> preset
 | **SP** | Seasons | Spring | SP01 |
 | **SM** | Seasons | Summer | SM01 |
 | **WN** | Seasons | Winter | WN01 |
-| **BW01** | Style | Black and White | 01 |
+| **BW01** | Style | Black and White | BW01 |
 | **CN01** | Style | Cinematic | CN01 |
 | **CN11** | Style | Cinematic | CN11 |
 | **BBW** | Style | Film Inspired | Bold Black & White |
