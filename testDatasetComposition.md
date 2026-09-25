@@ -3,6 +3,8 @@
 This file contains the description of the Adobe Lightroom presets contained in the DB and the subset selected for the experimental analysis.
 Preset names follow a three-level hierarchy: [Preset Family] -> [Category] -> [Preset Name] (i.e., Adaptive -> Blur Background -> Strong).
 
+For completeness, we also report the list of Adobe Photoshop presets contained in the DB.
+
 ## Lightroom Presets selected for experimental analysis
 
 | Preset Family | Category | Preset Name |
