@@ -1,4 +1,4 @@
-# Test Dataset Composition
+# DB Composition
 
 This file contains the description of the Adobe Lightroom presets contained in the DB and the subset selected for the experimental analysis.
 Preset names follow a three-level hierarchy: [Category] -> [Preset Family] -> [Preset Name] (i.e., Adaptive -> Blur Background -> Strong).
