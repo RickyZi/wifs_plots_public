@@ -1,13 +1,13 @@
 # Test Dataset Composition
 
 This file contains the description of the Adobe Lightroom presets contained in the DB and the subset selected for the experimental analysis.
-Preset names follow a three-level hierarchy: [Preset Family] -> [Category] -> [Preset Name] (i.e., Adaptive -> Blur Background -> Strong).
+Preset names follow a three-level hierarchy: [Category] -> [Preset Family] -> [Preset Name] (i.e., Adaptive -> Blur Background -> Strong).
 
 For completeness, we also report the list of Adobe Photoshop presets contained in the DB.
 
 ## Lightroom Presets selected for experimental analysis
 
-| Preset Family | Category | Preset Name |
+| Category | Preset Family | Preset Name |
 | :--- | :--- | :--- |
 | Adaptive | Blur Background | Strong |
 | Adaptive | Blur Background | Subtle |
@@ -34,7 +34,7 @@ For completeness, we also report the list of Adobe Photoshop presets contained i
 
 ### Adaptive
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Blur Background | Strong |
 | Blur Background | Subtle |
@@ -44,7 +44,7 @@ For completeness, we also report the list of Adobe Photoshop presets contained i
 
 ### Seasons
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Autumn | TM01 |
 | Autumn | TM02 |
@@ -94,7 +94,7 @@ For completeness, we also report the list of Adobe Photoshop presets contained i
 
 ### Style
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Black and White | BW01 |
 | Black and White | BW02 |
@@ -164,7 +164,7 @@ For completeness, we also report the list of Adobe Photoshop presets contained i
 
 ### Subject
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Landscape | LN01 |
 | Travel | TR01 |
@@ -177,7 +177,7 @@ We recall that these were NOT used in our experimental setting.
 
 ### B&W
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | B&W | Cool |
 | B&W | Matte |
@@ -187,14 +187,14 @@ We recall that these were NOT used in our experimental setting.
 
 ### Cinematic
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Cinematic | Bluemood |
 | Cinematic | Splittone |
 
 ### Creative
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Creative | Colorpop |
 | Creative | Crossprocess |
@@ -202,7 +202,7 @@ We recall that these were NOT used in our experimental setting.
 
 ### Landscape
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Landscape | Colorpop |
 | Landscape | Faded |
@@ -211,7 +211,7 @@ We recall that these were NOT used in our experimental setting.
 
 ### Portraits
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Portraits | Brighter |
 | Portraits | Classic B&W |
@@ -222,7 +222,7 @@ We recall that these were NOT used in our experimental setting.
 
 ### Photo-Repair
 
-| Category | Preset Name |
+| Preset Family | Preset Name |
 | --- | --- |
 | Photo-Repair | Darken |
 | Photo-Repair | Lightnen |
