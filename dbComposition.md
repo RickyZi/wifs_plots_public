@@ -7,6 +7,8 @@ For completeness, we also report the list of Adobe Photoshop presets contained i
 
 ## Lightroom Presets selected for experimental analysis
 
+From the full preset list in DB (reported below), the two cases with only partial consistency (ST-BBW, ST-CBW) and the 5 adaptive presets with no uniqueness (AD-1 to 5) have been selected for experimental analysis, to include the expectedly most challenging cases; for other categories, the first preset was picked. 	
+
 | Category | Preset Family | Preset Name |
 | :--- | :--- | :--- |
 | Adaptive | Blur Background | Strong |
